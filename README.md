@@ -20,6 +20,6 @@ Get the latest version from [releases page](https://github.com/ramanveerji/Archi
 
 ### Notes:
 - All devices are compatible starting from Android 7.0.
-- Turn off Play Protect if face issues while installing.
+- Turn off Play Protect if you face issues while installing.
 
 Architecture Checker app built by [Ramandeep](https://t.me/ramanveerji). You can join our channel [here](https://t.me/rs_bro). Contact Us [here](https://t.me/rs_m_bot) for more information or suggestions.
