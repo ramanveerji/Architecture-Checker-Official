@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arch Checker</string>
+    <string name="cpu_architecture">This device supports the following ABI\'s:\n%s</string>
+    <string name="unknown">Unknown</string>
+    <string name="error_retrieving_architecture">Error retrieving architecture.</string>
+    <string name="architecture_notes"><![CDATA[         <b>Description:</b><br/>         ➥ In simple words the applications having the above mentioned libs are supported in this device.<br/>         ]]></string>
+    <string name="check_architecture_action_bar_title">Check Architecture</string>
+    <string name="architecture_checker">Architecture Checker</string>
+    <string name="application_by_ramandeep">Made by Ramandeep Singh Matharu 🇮🇳</string>
+</resources>
